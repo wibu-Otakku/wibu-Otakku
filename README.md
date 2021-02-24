@@ -1,8 +1,7 @@
 	
-### Kamex~ I'm Zaki<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
+### Welcome~ I'm Lord<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 <p align="center">
-### Donasi
-* [`Saweria`](https://saweria.co/ZakiAhsan)
+
 </p>
 <br>
 
@@ -15,12 +14,12 @@
 	
 ## Stats
 
-<a href="https://github.com/ZakiGans"><img src="https://github-readme-stats.vercel.app/api?username=ZakiGans&show_icons=true&theme=radical"></a>
-<a href="https://github.com/ZakiGans"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakiGans&theme=highcontrast&layout=compact"></a>
+<a href="https://github.com/SangLord"><img src="https://github-readme-stats.vercel.app/api?username=SangLord&show_icons=true&theme=radical"></a>
+<a href="https://github.com/SangLord"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakiGans&theme=highcontrast&layout=compact"></a>
 
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakiGans">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SangLord">
 </p>
 
 ## Trophies
