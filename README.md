@@ -2,8 +2,6 @@
 ### Welcome~ I'm Lord<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 <p align="center">
 
-https://textpro.me/images/user_image/2021/08/61263c848ece7.jpg
-
 </p>
 <br>
 
