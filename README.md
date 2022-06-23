@@ -1,5 +1,5 @@
 	
-### Welcome~ I'm Lord<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
+### Welcome~ I'm Lord<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="27px">
 <p align="center">
 
 </p>
@@ -14,13 +14,13 @@
 	
 ## Stats
 
-<a href="https://github.com/SangLord"><img src="https://github-readme-stats.vercel.app/api?username=SangLord&show_icons=true&theme=radical"></a>
-<a href="https://github.com/SangLord"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakiGans&theme=highcontrast&layout=compact"></a>
+<a href="https://github.com/wibu-Otakku"><img src="https://github-readme-stats.vercel.app/api?username=wibu-Otakku&show_icons=true&theme=radical"></a>
+<a href="https://github.com/wibu-Otakku"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wibu-Otakku&theme=highcontrast&layout=compact"></a>
 
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SangLord">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wibu-Otakku">
 </p>
 
 ## Trophies
-<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=ZakiGans&row=2&column=3"/>
+<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=wibu-Otakku&row=2&column=3"/>
