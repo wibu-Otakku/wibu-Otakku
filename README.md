@@ -1,5 +1,5 @@
 	
-### Welcome~ I'm Lord<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="27px">
+### Welcome~ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="27px">
 <p align="center">
 
 </p>
